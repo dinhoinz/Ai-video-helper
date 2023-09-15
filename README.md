@@ -1,7 +1,6 @@
 # AI Video Helper
 
-![Demo Image](![image](https://github.com/dinhoinz/Ai-video-helper/assets/54680864/036ee1ca-e9f4-4cc9-ac61-2b08436ab8fd)
-)
+![Demo Image](![image](https://github.com/dinhoinz/Ai-video-helper/assets/54680864/036ee1ca-e9f4-4cc9-ac61-2b08436ab8fd))
 
 ## Table of Contents
 
