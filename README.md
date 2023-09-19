@@ -1,7 +1,5 @@
 # AI Video Helper
 
-![Demo Image](https://github.com/seu-usuario/seu-repositorio/raw/master/caminho-para-a-imagem/imagem.jpg)
-
 ## Table of Contents
 
 -   [Introduction](#introduction)
@@ -34,5 +32,4 @@ AI Video Helper is a powerful tool that leverages Artificial Intelligence (AI) t
 Before you get started, ensure you have the following prerequisites:
 
 -   Node.js and npm (Node Package Manager)
--   Video hosting platform API credentials (if applicable)
 -   OpenAI API credentials (if applicable)
